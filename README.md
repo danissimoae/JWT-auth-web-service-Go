@@ -18,5 +18,4 @@
 Склонируйте этот репозиторий на ваш компьютер.
 
    ```bash
-   git clone https://github.com/danissimoae/JWT-auth-web-service-Go.git```
-
+   git clone https://github.com/danissimoae/JWT-auth-web-service-Go.git
